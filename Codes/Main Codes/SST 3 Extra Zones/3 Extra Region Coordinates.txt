@@ -1,0 +1,7 @@
+3 Extra Region Coordinates
+
+South Atlantic Ocean : 45°S-60°S,5°E-40°E
+East Australian  : 15°S-40°S,160°E-190°E
+East Australian  : 5°S-25°N,315°E-345°E
+
+06. SST 12 Region Data Extraction
