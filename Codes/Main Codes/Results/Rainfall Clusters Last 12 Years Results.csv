@@ -1,0 +1,8 @@
+,Model,Best Score,Accuracy Score,Best Params
+0,Support Vector Machine,0.2909090909090909,0.25,"{'C': 1, 'coef0': 0.0, 'degree': 2, 'kernel': 'rbf', 'probability': True}"
+1,Random Forest,0.3181818181818182,0.08333333333333333,"{'criterion': 'gini', 'max_depth': 10, 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 50}"
+2,Logistic Regression,0.2818181818181818,0.25,"{'C': 1, 'penalty': 'l1'}"
+3,Naive Bayes Gaussian,0.17272727272727273,0.25,{}
+4,Naive Bayes Multinomial,0.32727272727272727,0.25,{'alpha': 0.1}
+5,Decision Tree,0.28181818181818186,0.0,"{'criterion': 'gini', 'max_depth': None, 'min_samples_leaf': 4, 'min_samples_split': 10}"
+6,Linear Discriminant Analysis,0.2272727272727273,0.25,{}

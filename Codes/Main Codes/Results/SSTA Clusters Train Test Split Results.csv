@@ -1,0 +1,8 @@
+,model,best_score,accuracy_score,best_params
+0,svm,0.9268398268398268,1.0,"{'C': 10, 'coef0': 0.0, 'degree': 2, 'kernel': 'rbf', 'probability': True}"
+1,random_forest,0.7891774891774892,1.0,"{'criterion': 'gini', 'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 10, 'n_estimators': 20}"
+2,logistic_regression,0.7333333333333333,0.6923076923076923,"{'C': 10, 'penalty': 'l2'}"
+3,naive_bayes_gaussian,0.8160173160173161,0.8461538461538461,{}
+4,naive_bayes_multinomial,0.5956709956709956,0.5384615384615384,{'alpha': 0.1}
+5,decision_tree,0.6696969696969697,0.6923076923076923,"{'criterion': 'gini', 'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 5}"
+6,linear_discriminant_analysis,0.870995670995671,0.9230769230769231,{}
